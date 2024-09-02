@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Joguinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|c:\\users\\vitor\\joguinho\\assets\\scripts\\globals\\gamefinished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globals\\gamefinished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|c:\\users\\vitor\\joguinho\\assets\\scripts\\globals\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globals\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\globals\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globals\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\globals\\loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globals\\loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\platforms\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platforms\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|C:\\Users\\vitor\\Joguinho\\assets\\scripts\\traps\\spikes\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524C2765-0C16-713B-1F69-B9E8ACF6A686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\spikes\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameFinished.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\GameFinished.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Globals\\GameFinished.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\GameFinished.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Globals\\GameFinished.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:02:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Globals\\NextLevel.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Globals\\NextLevel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:12:37.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Platforms\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Platforms\\Platform.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Platforms\\Platform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Platforms\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:07:21.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadGame.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\LoadGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Globals\\LoadGame.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\LoadGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Globals\\LoadGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:28:07.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spikes.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Traps\\Spikes\\Spikes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Spikes\\Spikes.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Traps\\Spikes\\Spikes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Spikes\\Spikes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:40:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAKMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:09:57.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Globals\\GameOver.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Globals\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Globals\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:03:09.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Menu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\vitor\\Joguinho\\Assets\\Scripts\\Menu\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:46:25.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
